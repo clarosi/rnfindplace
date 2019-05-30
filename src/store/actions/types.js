@@ -1,0 +1,6 @@
+export const LOGIN_USER_STARTS = 'LOGIN_USER_STARTS';
+export const LOGIN_USER_SUCCESS = 'LOGIN_USER_SUCCESS';
+export const LOGIN_USER_FAILED = 'LOGIN_USER_FAILED';
+
+export const ADD_PLACE = 'ADD_PLACE';
+export const DELETE_PLACE = 'DELETE_PLACE';
